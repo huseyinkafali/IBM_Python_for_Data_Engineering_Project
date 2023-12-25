@@ -1,0 +1,1 @@
+Detailed web scraping project.
